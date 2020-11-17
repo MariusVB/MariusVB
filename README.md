@@ -1,4 +1,21 @@
-### Hi there 👋
+### Software developer with a broad area of interest and experience. Currently working at [SAGA](asaga.space), working towards sending software to the moon!
+
+#### Proficient languages:
+* Python (Tensorflow, pd, np, flask etc.)
+* JS/TS (Vue, React)
+* C# (ASP.NET Core)
+* C++ (Arduino)
+* Kotlin (Springboot)
+* SQL (Postgres)
+* R (RStudio)
+
+#### Technology skills:
+* Linux
+* Docker
+* Arduino (ESP32, soldering..)
+* AMQP/MQTT
+* Redis
+* More to come!
 
 <!--
 **MariusVB/MariusVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
