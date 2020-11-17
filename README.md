@@ -1,4 +1,4 @@
-### Software developer with a broad area of interest and experience. Currently working at [SAGA](https://asaga.space), working towards sending software to the moon!
+### Software developer with a broad area of interest and experience. Currently working at [SAGA](https://asaga.space), striving for sending software to the moon!
 
 #### Proficient languages:
 * Python (Tensorflow, pd, np, flask etc.)
