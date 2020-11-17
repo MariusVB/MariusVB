@@ -1,4 +1,5 @@
 ### Software developer with a broad area of interest and experience. Currently working at [SAGA](https://asaga.space), striving for sending software to the moon!
+Educated with a BSc in Data Science from the IT University of Copenhagen, supplemented with autodidactism.
 
 #### Proficient languages:
 * Python (Tensorflow, pd, np, flask etc.)
