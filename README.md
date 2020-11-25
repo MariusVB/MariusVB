@@ -15,7 +15,8 @@ Educated with a BSc in Data Science from the IT University of Copenhagen, supple
 * Docker
 * Arduino (ESP32, soldering..)
 * AMQP/MQTT
-* Redis
+* DevOps - DigitalOcean, Heroku and some slight Google Cloud, AWS & Azure)
+* Computer Hardware! r/PCMR
 * More to come!
 
 <!--
