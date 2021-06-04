@@ -3,19 +3,17 @@ Educated with a BSc in Data Science from the IT University of Copenhagen, supple
 
 #### Proficient languages:
 * Python (Tensorflow, pd, np, flask etc.)
-* JS/TS (Vue, React)
-* C# (ASP.NET Core)
+* JS/TS (Vue, React, Express)
 * C++ (Arduino)
-* Kotlin (Springboot)
 * SQL (Postgres)
-* R (RStudio)
+* (Rust)
 
 #### Technology skills:
 * Linux
 * Docker
-* Arduino (ESP32, soldering..)
-* AMQP/MQTT
-* DevOps - DigitalOcean, Heroku and some slight Google Cloud, AWS & Azure)
+* Arduino & Platformio (ESP32, soldering..)
+* MQTT
+* DevOps - DigitalOcean, Heroku and some slight Google Cloud, AWS & Azure
 * Computer Hardware
 * More to come!
 
