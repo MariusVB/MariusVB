@@ -3,19 +3,18 @@ Educated with a BSc in Data Science from the IT University of Copenhagen, supple
 
 #### Proficient languages:
 * Python (Tensorflow, pd, np, flask etc.)
-* JS/TS (Vue, React, Express)
-* C++ (Arduino)
+* JS/TS (Node, React, Express)
+* C++ (PlatformIO/Arduino)
 * SQL (Postgres)
-* (Rust)
+* Rust (warp, diesel)
 
 #### Technology skills:
 * Linux
 * Docker
 * Arduino & Platformio (ESP32, soldering..)
 * MQTT
-* DevOps - DigitalOcean, Heroku and some slight Google Cloud, AWS & Azure
+* DevOps - DigitalOcean, Google Cloud and Heroku.
 * Computer Hardware
-* More to come!
 
 <!--
 **MariusVB/MariusVB** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
